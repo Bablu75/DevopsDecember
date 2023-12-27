@@ -1,2 +1,2 @@
-print ("this is a python program")
+print ("this is a salaar first part")
 
